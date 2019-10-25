@@ -7,7 +7,7 @@ ddebut=$(date +"%s")
 
 #---------------------------------------------------------------------------------
 #You need to change this data to set project migration folder
-MIGRATION_FOLDER=""
+MIGRATION_FOLDER="MIGRATION"
 
 #---------------------------------------------------------------------------------
 #You need to change this data to set source repository
